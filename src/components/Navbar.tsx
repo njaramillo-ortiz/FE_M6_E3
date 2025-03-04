@@ -54,6 +54,9 @@ const AppNavbar: React.FC = () => {
             <Nav.Link as={Link} to="/" style={{ textDecoration: "none" }}>
               Home
             </Nav.Link>
+            <Nav.Link as={Link} to="/camera" style={{ textDecoration: "none" }}>
+              Cámara
+            </Nav.Link>
             {isAuthenticated && role === "admin" && (
               <>
                 <Nav.Link as={Link} to="/equipo-medico" style={{ textDecoration: "none" }}>

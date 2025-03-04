@@ -10,6 +10,7 @@ import AppointmentForm from "./components/AppointmentForm";
 import { getFromLocalStorage, saveToLocalStorage } from "./utils/localStorageUtils";
 
 import "./App.css";
+import Camera from "./components/Camera";
 
 interface Doctor {
   nombre: string;
@@ -49,6 +50,7 @@ function App() {
         <AppNavbar />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/camera" element={<Camera />} />
           <Route path="/testimonios" element={<Testimonios />} />
           <Route
             path="/equipo-medico"
