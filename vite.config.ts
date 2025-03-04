@@ -38,7 +38,14 @@ export default defineConfig({
     }),
   ],
   server: {
-    open: false, 
+    open: false,
+    proxy: {
+      '/api': {
+        target: 'https://www.gssd.cl',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, ''),
+      },
+    },
   },
   build: {
     rollupOptions: {

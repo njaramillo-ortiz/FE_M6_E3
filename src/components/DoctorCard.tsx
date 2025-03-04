@@ -1,4 +1,6 @@
-import React from 'react';
+import React from "react";
+
+const images = import.meta.glob("/src/assets/img/*", { eager: true });
 
 interface Doctor {
   nombre: string;
@@ -13,20 +15,19 @@ interface DoctorCardProps {
 }
 
 const DoctorCard: React.FC<DoctorCardProps> = ({ doctor }) => {
+  const imagePath = images[`/src/assets/img/${doctor.imagen}`] as { default: string } | undefined;
+
   return (
     <div className="card mt-4">
       <img
-        src={`src/assets/img/${doctor.imagen}`}
+        src={imagePath ? imagePath.default : "/assets/img/placeholder.jpg"} 
         alt={`Foto de ${doctor.nombre}`}
         className="card-img-top img-fluid"
-        onError={(e) => {
-          (e.target as HTMLImageElement).src = '/assets/img/placeholder.jpg'; 
-        }}
       />
       <div className="card-body">
         <h2 className="card-title">{doctor.nombre}</h2>
         <div className="card-info">
-          <h5 style={{ color: '#13628f' }}>
+          <h5 style={{ color: "#13628f" }}>
             <strong>Especialidad:</strong> {doctor.especialidad}
           </h5>
           <p>
