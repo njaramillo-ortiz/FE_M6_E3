@@ -1,0 +1,1 @@
+{"name":"Nursing Hospital","short_name":"HospitalApp","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"Aplicación web progresiva para el hospital.","icons":[{"src":"icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#007bff"}
