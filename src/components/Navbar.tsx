@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Navbar, Container, Nav, Button, Modal, Form, Alert } from "react-bootstrap";
 import { Link, useNavigate } from "react-router-dom";
-import logotipo from "../assets/img/logotipo.png";
+import logotipo from "../assets/img/logotipo.webp";
 import { useAuth } from "../context/AuthContext";
 import { saveUserCredentials } from "../utils/localStorageUtils"; 
 

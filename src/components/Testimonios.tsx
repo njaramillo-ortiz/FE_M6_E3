@@ -4,9 +4,9 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import testimonio1 from '../assets/img/testimonio_1.jpg';
-import testimonio2 from '../assets/img/testimonio_2.jpg';
-import testimonio3 from '../assets/img/testimonio_3.jpg';
+import testimonio1 from '../assets/img/testimonio_1.webp';
+import testimonio2 from '../assets/img/testimonio_2.webp';
+import testimonio3 from '../assets/img/testimonio_3.webp';
 
 interface Testimonio {
   id: number;

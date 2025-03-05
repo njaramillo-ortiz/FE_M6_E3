@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Dr. Felipe Muñoz",
-    "imagen": "doc_01.jpg",
+    "imagen": "doc_01.webp",
     "especialidad": "Gastroentereología",
     "resumen": "El Dr. Felipe Muñoz es un gastroenterólogo con amplia experiencia en el diagnóstico y tratamiento de trastornos digestivos. Su enfoque personalizado y basado en evidencia asegura la mejora de la calidad de vida de sus pacientes a través de tratamientos efectivos y seguimiento cercano.",
     "años_experiencia": 8,
@@ -16,7 +16,7 @@
   },
   {
     "nombre": "Dr. Leopoldo Contreras",
-    "imagen": "doc_02.jpg",
+    "imagen": "doc_02.webp",
     "especialidad": "Cardiología",
     "resumen": "El Dr. Leopoldo Contreras es un cardiólogo especializado en el manejo de enfermedades cardiovasculares. Ofrece un enfoque integral y personalizado para el diagnóstico y tratamiento de condiciones cardíacas, utilizando tecnologías avanzadas y métodos basados en evidencia.",
     "años_experiencia": 18,
@@ -31,7 +31,7 @@
   },
   {
     "nombre": "Dr. Alejandro Figueroa",
-    "imagen": "doc_03.jpg",
+    "imagen": "doc_03.webp",
     "especialidad": "Psicología",
     "resumen": "El Dr. Alejandro Figueroa es un especialista en salud mental que utiliza técnicas basadas en evidencia y un enfoque empático para tratar trastornos emocionales y psicológicos. Ayuda a sus pacientes a superar desafíos y mejorar su bienestar y calidad de vida de manera integral.",
     "años_experiencia": 3,
@@ -46,7 +46,7 @@
   },
   {
     "nombre": "Dr. Francisco Carrasco",
-    "imagen": "doc_04.jpg",
+    "imagen": "doc_04.webp",
     "especialidad": "Cardiología",
     "resumen": "El Dr. Francisco Carrasco es un cardiólogo experimentado especializado en el diagnóstico y tratamiento de enfermedades cardíacas. Combina su experiencia clínica con un enfoque personalizado para asegurar el bienestar de sus pacientes, brindando atención y seguimiento continuo.",
     "años_experiencia": 22,
@@ -61,7 +61,7 @@
   },
   {
     "nombre": "Dr. Nicolás Rivera",
-    "imagen": "doc_05.jpg",
+    "imagen": "doc_05.webp",
     "especialidad": "Traumatología",
     "resumen": "El Dr. Nicolás Rivera es un traumatólogo con más de 15 años de experiencia en lesiones musculoesqueléticas, desde fracturas complejas hasta rehabilitación postquirúrgica de deportistas. Integra tecnología avanzada y protocolos personalizados para asegurar la mejor recuperación.",
     "años_experiencia": 5,
@@ -76,7 +76,7 @@
   },
   {
     "nombre": "Dra. Valeria Sánchez",
-    "imagen": "doc_06.jpg",
+    "imagen": "doc_06.webp",
     "especialidad": "Traumatología",
     "resumen": "La Dra. Valeria Sánchez es especialista en traumatología deportiva, con más de 10 años de experiencia. Ha trabajado con atletas de alto nivel y aficionados, ayudándolos a superar lesiones y mejorar su rendimiento mediante técnicas mínimamente invasivas y un enfoque funcional.",
     "años_experiencia": 12,
@@ -91,7 +91,7 @@
   },
   {
     "nombre": "Dr. Martín Pérez",
-    "imagen": "doc_07.jpg",
+    "imagen": "doc_07.webp",
     "especialidad": "Traumatología",
     "resumen": "El Dr. Martín Pérez es un cirujano traumatológico especializado en intervenciones reconstructivas y en el tratamiento de patologías crónicas. Con más de 12 años de experiencia, utiliza técnicas innovadoras y participa en estudios sobre prótesis de última generación y terapias regenerativas.",
     "años_experiencia": 11,
@@ -106,7 +106,7 @@
   },
   {
     "nombre": "Dr. Andrés Fuentes",
-    "imagen": "doc_08.jpg",
+    "imagen": "doc_08.webp",
     "especialidad": "Psicología",
     "resumen": "El Dr. Andrés Fuentes es psiquiatra con más de 10 años de experiencia en el tratamiento de trastornos de ansiedad, depresión y estrés postraumático. Combina terapia cognitivo-conductual y manejo de medicamentos cuando es necesario, ofreciendo soluciones personalizadas y efectivas.",
     "años_experiencia": 10,
@@ -121,7 +121,7 @@
   },
   {
     "nombre": "Dra. Camila Ríos",
-    "imagen": "doc_09.jpg",
+    "imagen": "doc_09.webp",
     "especialidad": "Gastroentereología",
     "resumen": "La Dra. Camila Ríos se especializa en la prevención y tratamiento de enfermedades gastrointestinales. Ofrece atención personalizada y un enfoque integral, siempre buscando mejorar la salud de sus pacientes mediante un cuidado cercano y de calidad.",
     "años_experiencia": 3,
@@ -136,7 +136,7 @@
   },
   {
     "nombre": "Dr. Pablo Ortiz",
-    "imagen": "doc_10.jpg",
+    "imagen": "doc_10.webp",
     "especialidad": "Traumatología",
     "resumen": "El Dr. Pablo Ortiz es traumatólogo con experiencia en tratamientos para la rodilla deportiva. Se dedica a aplicar técnicas modernas para asegurar la salud y el bienestar de sus pacientes, brindando un trato cercano y asegurando su satisfacción con el proceso de recuperación.",
     "años_experiencia": 2,
@@ -151,7 +151,7 @@
   },
   {
     "nombre": "Dr. Ignacio Fernández",
-    "imagen": "doc_11.jpg",
+    "imagen": "doc_11.webp",
     "especialidad": "Gastroentereología",
     "resumen": "El Dr. Ignacio Fernández es experto en nutrición clínica, especializado en planes alimenticios personalizados. Su enfoque promueve estilos de vida saludables, ayudando a sus pacientes a mejorar su bienestar físico y emocional mediante la adopción de hábitos saludables.",
     "años_experiencia": 4,
@@ -166,7 +166,7 @@
   },
   {
     "nombre": "Dra. Sofía Gutiérrez",
-    "imagen": "doc_12.jpg",
+    "imagen": "doc_12.webp",
     "especialidad": "Cardiología",
     "resumen": "La Dra. Sofía Gutiérrez es cardióloga con experiencia en el diagnóstico y tratamiento de enfermedades cardíacas. Su enfoque se centra en la prevención y el uso de técnicas innovadoras para mejorar la salud cardiovascular de sus pacientes, contribuyendo a su bienestar general.",
     "años_experiencia": 1,

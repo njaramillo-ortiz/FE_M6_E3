@@ -1,9 +1,9 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
 
-import firstImage from '../assets/img/carrusel_1.jpg';
-import secondImage from '../assets/img/carrusel_2.jpg';
-import thirdImage from '../assets/img/carrusel_3.jpg';
+import firstImage from '../assets/img/carrusel_1.webp';
+import secondImage from '../assets/img/carrusel_2.webp';
+import thirdImage from '../assets/img/carrusel_3.webp';
 
 interface CarouselImageProps {
   src: string;
